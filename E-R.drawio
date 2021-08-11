@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T09:15:00.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="KpFbALv-ZCAaQ7z27GI9" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T09:15:48.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="2j6R_fqBrawkCr2_RbVU" version="14.9.5" type="github">
   <diagram id="Bu6V3V-Sf1SO0hkXzAme" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,25 +234,25 @@
           <mxGeometry x="740" y="700" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZZpVtpHZVxVXMXY_otSI-8" value="Mã GV" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="830" width="90" height="50" as="geometry" />
+          <mxGeometry x="540" y="840" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZpVtpHZVxVXMXY_otSI-9" value="Họ Tên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="830" width="90" height="50" as="geometry" />
+          <mxGeometry x="415" y="840" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZpVtpHZVxVXMXY_otSI-10" value="Nơi Sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="1050" width="90" height="50" as="geometry" />
+          <mxGeometry x="405" y="1030" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZpVtpHZVxVXMXY_otSI-11" value="Ngày Sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="980" width="90" height="50" as="geometry" />
+          <mxGeometry x="324" y="980" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZpVtpHZVxVXMXY_otSI-12" value="Giới Tính" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="890" width="90" height="50" as="geometry" />
+          <mxGeometry x="325" y="890" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZpVtpHZVxVXMXY_otSI-13" value="Số điện thoại" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1050" width="90" height="50" as="geometry" />
+          <mxGeometry x="530" y="1040" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZpVtpHZVxVXMXY_otSI-14" value="Email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1010" width="90" height="50" as="geometry" />
+          <mxGeometry x="630" y="1000" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZpVtpHZVxVXMXY_otSI-23" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZZpVtpHZVxVXMXY_otSI-1" target="ZZpVtpHZVxVXMXY_otSI-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -282,6 +282,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="1030" as="sourcePoint" />
             <mxPoint x="500" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZpVtpHZVxVXMXY_otSI-28" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZpVtpHZVxVXMXY_otSI-11" target="ZZpVtpHZVxVXMXY_otSI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="1010" as="sourcePoint" />
+            <mxPoint x="480" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZpVtpHZVxVXMXY_otSI-29" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZpVtpHZVxVXMXY_otSI-12" target="ZZpVtpHZVxVXMXY_otSI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="990" as="sourcePoint" />
+            <mxPoint x="480" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
